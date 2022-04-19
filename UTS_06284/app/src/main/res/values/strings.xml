@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">UTS_Mobile_06284</string>
+    <string name="hewan_name">Nama Pahlawan</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>Anjing</item>
+        <item>Kucing</item>
+        <item>Bekatan</item>
+        <item>Harimau</item>
+        <item>Monyet</item>
+        <item>Panda</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Panggilan : jackie,
+            Hobie : di foto</item>
+        <item>Panggilan : Flakey,
+            Hobie : Loncat Pagar</item>
+        <item>Panggilan : Mancung,
+            Hobie : Makan Kacang-kacangan</item>
+        <item>Panggilan : Kucing Besar,
+            Hobie : Makan Daging</item>
+        <item>Panggilan : Joko,
+            Hobie : Melamun masa depan</item>
+        <item>Panggilan : Tampan,
+            Hobie : manjat pohon bambu</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/anjing</item>
+        <item>@drawable/kucing</item>
+        <item>@drawable/bekantan</item>
+        <item>@drawable/harimau</item>
+        <item>@drawable/monyet</item>
+        <item>@drawable/panda</item>
+    </integer-array>
+</resources>
